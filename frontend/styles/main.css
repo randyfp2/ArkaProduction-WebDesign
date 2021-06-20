@@ -191,14 +191,11 @@ header .btn-get-started:hover {
   font-size: 22px;
 }
 
-.section-testimonials-content .card-testimonial p {
-  font-size: 15px;
-}
 
 .section-testimonials-content .card-testimonial .testimonials {
-  font-size: 26px;
+  font-size: 20px;
   text-align: center;
-  color: #6e6e6e;
+  color: #8f8f8f;
   font-weight: 200;
 }
 
